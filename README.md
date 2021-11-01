@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NAMAN</h1>
-<h3 align="center">A passionate programmer and flutter app developer from India</h3>
+<h3 align="center">💙Flutter Dev ▪ 🧠ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-bhai&label=Profile%20views&color=0e75b6&style=flat" alt="coder-bhai" /> </p>
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thisis_naman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisis_naman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naman-aggarwal-2697741b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naman-aggarwal-2697741b6" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/code_include" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="code_include" height="30" width="40" /></a>
+<a href="https://twitter.com/thisis_naman" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="https://twitter.com/thisis_naman" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/naman-aggarwal-2697741b6" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" alt="https://linkedin.com/in/naman-aggarwal-2697741b6" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/code_include" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="https://www.hackerrank.com/code_include" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,3 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisNaman&show_icons=true&locale=en&theme=radical" alt="thisisNaman" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisisNaman&theme=radical)](https://git.io/streak-stats)
